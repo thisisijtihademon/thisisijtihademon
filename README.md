@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thisisijtihademon/thisisijtihademon/blob/main/banner.png" alt="A-Ijtihad Emon GitHub Banner" width="100%" />
+</p>
+
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm A-Ijtihad Emon</h1>
 <h3 align="center">🚀 Python Developer | Business Analyst | Data Engineer 🚀</h3>
