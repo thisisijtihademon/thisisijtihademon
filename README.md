@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Experience 
 
 ### 🧠 Programming & Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,33 +72,88 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Tech Stack
 ## 💡 Tech Stack
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/276DC3/r-project.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/jupyter.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/excel.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/power-bi.png" width="40"/></td>
+    <!-- Programming & Languages -->
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
   </tr>
   <tr>
-    <td>Python</td><td>SQL</td><td>R</td><td>Jupyter</td><td>Excel</td><td>Tableau</td><td>Power BI</td>
+    <td align="center">Python</td>
+    <td align="center">R</td>
+    <td align="center">SQL</td>
+    <td align="center">Bash</td>
+    <td align="center">C</td>
+    <td align="center">JavaScript</td>
+    <td align="center">Java</td>
+  </tr>
+
+  <tr>
+    <!-- Data Science -->
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/numpy.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/pandas.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/google-cloud.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/000000/spark.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/ios/50/hadoop-distributed-file-system.png" width="40"/></td>
+    <td align="center">Jupyter</td>
+    <td align="center">NumPy</td>
+    <td align="center">Pandas</td>
+    <td align="center">Scikit-learn</td>
+    <td align="center">TensorFlow</td>
+    <td align="center">Keras</td>
+    <td align="center">OpenCV</td>
+  </tr>
+
+  <tr>
+    <!-- Data Engineering & Cloud -->
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/></td>
   </tr>
   <tr>
-    <td>TensorFlow</td><td>NumPy</td><td>Pandas</td><td>GCP</td><td>AWS</td><td>Spark</td><td>Hadoop</td>
+    <td align="center">Apache</td>
+    <td align="center">Kafka</td>
+    <td align="center">GCP</td>
+    <td align="center">AWS</td>
+    <td align="center">Docker</td>
+    <td align="center">Spark</td>
+    <td align="center">Hadoop</td>
+  </tr>
+
+  <tr>
+    <!-- Tools & Visualization -->
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></td>
+  </tr>
+  <tr>
+    <td align="center">Git</td>
+    <td align="center">GitHub</td>
+    <td align="center">VS Code</td>
+    <td align="center">Tableau</td>
+    <td align="center">Power BI</td>
+    <td align="center">Excel</td>
+    <td align="center">Linux</td>
   </tr>
 </table>
 
