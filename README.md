@@ -73,14 +73,34 @@
 ---
 
 ## 📊 GitHub Stats
+## 💡 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-ijtihad-Emon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-ijtihad-Emon&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ijtihad-Emon&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/276DC3/r-project.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/jupyter.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/excel.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/power-bi.png" width="40"/></td>
+  </tr>
+  <tr>
+    <td>Python</td><td>SQL</td><td>R</td><td>Jupyter</td><td>Excel</td><td>Tableau</td><td>Power BI</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/numpy.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/pandas.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/google-cloud.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/spark.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/ios/50/hadoop-distributed-file-system.png" width="40"/></td>
+  </tr>
+  <tr>
+    <td>TensorFlow</td><td>NumPy</td><td>Pandas</td><td>GCP</td><td>AWS</td><td>Spark</td><td>Hadoop</td>
+  </tr>
+</table>
 
 ---
 
